@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://boss88.arxman.com/sitemap.xml
